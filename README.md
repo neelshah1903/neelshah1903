@@ -4,6 +4,6 @@ I am a Master’s candidate in Quantitative Finance at Northeastern University. 
 
 - 🎓 MS Quant Finance @ Northeastern University, Boston, MA, USA
 - 💼 Interned as a Summer Analyst at Bentley Associates, New York City
-- 📈 CFA Level 3 Candidate  
+- 📈 CFA Level 3 Cleared  
 - 💼 Ex-KPMG, EY | Passionate about quantitative investing  
 - 📧 shah.neel6@northeastern.edu  
